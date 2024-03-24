@@ -4,7 +4,7 @@ Submitted by: **Cecilia Truong**
 
 **cc's tumblr app** is an app that builds upon the features from project #5 and adds a detailed post view.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
