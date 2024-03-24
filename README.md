@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='ios101-project6-tumblr/IOS101-Project6-Demo.gif'/>.
+<img src='https://github.com/ceciliatruong/ios101-project6-tumblr-starter/blob/main/ios101-project6-tumblr/IOS101-Project6-Demo.gif?raw=true'/>.
 
 ## Notes
 
